@@ -1,0 +1,21 @@
+.calendar-container {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #cadcef;
+  border-radius: 8px;
+}
+
+.rbc-event {
+  background-color: #007bff !important;
+  color:  #b7d7d7;
+  border: none;
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+.rbc-toolbar {
+  font-size: 16px;
+}
+
+.rbc-today {
+  background-color: #a8d0ec !important;
+}
